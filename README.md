@@ -1,7 +1,7 @@
-# 🧪 McCabe-Thiele Distillation Visualizer
+# 🧪 Binary Distillation Column Design
 
 An interactive Streamlit app to visualize the **McCabe-Thiele method** for binary distillation.  
-This tool helps you understand how **equilibrium stages**, **operating lines**, and **feed conditions** determine the design of a distillation column.
+This tool helps you understand how **operating lines**, and **feed conditions** determine the design of a distillation column.
 
 ---
 
@@ -19,10 +19,7 @@ This tool helps you understand how **equilibrium stages**, **operating lines**, 
   - Rectifying section line
   - Stripping section line
   - Feed line (vertical, since `q = 1`)
-  - Only **2 trays** (stepwise construction)
-- Displays **operating line equations** in both:
-  - Slope-intercept form
-  - Flow-rate form
+  
 
 ---
 
